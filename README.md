@@ -26,3 +26,4 @@ Manage a DevOps-style project using **Git best practices**:
 └── scripts/                   # Sample DevOps helper scripts
     ├── deploy.sh
     └── backup.sh
+# Updated for Task 4 Submission 🚀
